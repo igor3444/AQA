@@ -1,4 +1,4 @@
-package lesson1.theory;
+package part_2.theory;
 
 public enum WeekDays {
     MON,

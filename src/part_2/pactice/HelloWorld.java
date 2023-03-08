@@ -1,4 +1,4 @@
-package lesson1.pactice;
+package part_2.pactice;
 
 public class HelloWorld {
     public static void main(String[] args) {
@@ -17,6 +17,7 @@ public class HelloWorld {
         double d = 10000000000.0;
         a = (int) d;
         System.out.println(a);
+        System.out.println(b);
 
     }
 }
